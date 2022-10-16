@@ -21,7 +21,7 @@ Tujuan :
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Expo][Expo.js]][Expo-url]
+* [![Expo][Expo.img]][Expo-url]
 
 
 
