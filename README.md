@@ -21,6 +21,7 @@ Tujuan :
 ### Built With
 
 * [![React][React.js]][React-url]
+* [![Expo][Expo.js]][Expo-url]
 
 
 
@@ -119,3 +120,5 @@ Terdapat 2 Module
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Expo.img]: https://expo.dev/static/brand/all-logos.png
+[Expo-url]: https://expo.dev
