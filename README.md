@@ -21,9 +21,7 @@ Tujuan :
 ### Built With
 
 * [![React][React.js]][React-url]
-
-
-
+* 
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -38,8 +36,6 @@ Lakukan install npm terlebih dahulu
   ```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Download aplikasi Expo di PlayStore
 2. Clone the repo
@@ -84,7 +80,6 @@ Terdapat 2 Module
    ```
  
  ## Video
- * [![KLIK DISINI !!!](https://img.youtube.com/vi/fJGWkbZHdWo/0.jpg)](https://youtu.be/kHmyfhgHuos)
- Klik gambar diatas untuk Android
- * [![KLIK DISINI !!!](https://img.youtube.com/vi/fJGWkbZHdWo/0.jpg)](https://youtu.be/xagnsYOCJoM)
+ * [![KLIK DISINI !!!](https://img.youtube.com/vi/kHmyfhgHuos/0.jpg)](https://youtu.be/kHmyfhgHuos)
+ * [![KLIK DISINI !!!](https://img.youtube.com/vi/xagnsYOCJoM/0.jpg)](https://youtu.be/xagnsYOCJoM)
  
