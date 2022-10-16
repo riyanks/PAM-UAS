@@ -82,4 +82,5 @@ Terdapat 2 Module
  ## Video
  * [![KLIK DISINI !!!](https://img.youtube.com/vi/kHmyfhgHuos/0.jpg)](https://youtu.be/kHmyfhgHuos)
  * [![KLIK DISINI !!!](https://img.youtube.com/vi/xagnsYOCJoM/0.jpg)](https://youtu.be/xagnsYOCJoM)
+ * Klik gambar diatas untuk melihat video 
  
