@@ -50,6 +50,7 @@ _Below is an example of how you can instruct your audience on installing and set
    npm start
    ```
 5. ketik w untuk web atau scan barcode 
+<br>
   ![THIS IS MY FILE](https://github.com/riyanks/PAM-UAS/blob/master/assets/Screenshot%202022-10-16%20184229.png?raw=true)
   
   
